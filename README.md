@@ -24,4 +24,10 @@ Isósceles: demais triângulos.
 
 c. Área do triângulo pelo Teorema de Heron:
 
- 
+ **Como executar**:
+
+ Acesse a pasta do projeto e digite:
+
+ ```
+ dotnet run 
+ ```
